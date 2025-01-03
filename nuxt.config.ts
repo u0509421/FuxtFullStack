@@ -33,4 +33,6 @@ export default defineNuxtConfig({
       rootPass: '258369',
     },
   },
+
+  compatibilityDate: '2025-01-03',
 });
